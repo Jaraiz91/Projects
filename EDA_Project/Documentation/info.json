@@ -1,0 +1,11 @@
+{
+    "project_name" = "The impact of oil price in shipping business",
+    "author" = "Javier Araiz Miranda",
+    "linkedin" = "www.linkedin.com/in/javieraraizmiranda"
+    "email" = "jaraiz37@gmail.com"
+    "project_title" = "The impact of oil price in shipping business"
+    "project_description" = "The purpose of this project is to show different regarding the maritime industry and oil price in order to see if there´s a possible relation between them. The source from this datasets is UNCTAD database."
+    "flask port" = 6060
+    "python_libraries_used" = ["pandas", "numpy", "matplotlib", "seaborn","datetime", "os", "sys", "flask", "streamlit"]
+
+}

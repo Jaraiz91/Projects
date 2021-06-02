@@ -1,0 +1,22 @@
+,Year,Economy Label,CommercialMarket Label,Number of port calls
+0,2018,"""World""","""All ships""",4112944
+1,2018,"""World""","""Liquid bulk carriers""",494120
+2,2018,"""World""","""Container ships""",454016
+3,2018,"""World""","""Dry breakbulk carriers""",430344
+4,2018,"""World""","""Dry bulk carriers""",259551
+5,2018,"""World""","""Liquefied petroleum gas carriers""",49357
+6,2018,"""World""","""Liquefied natural gas carriers""",10617
+7,2019,"""World""","""All ships""",4362737
+8,2019,"""World""","""Liquid bulk carriers""",526202
+9,2019,"""World""","""Container ships""",474553
+10,2019,"""World""","""Dry breakbulk carriers""",446817
+11,2019,"""World""","""Dry bulk carriers""",277872
+12,2019,"""World""","""Liquefied petroleum gas carriers""",55227
+13,2019,"""World""","""Liquefied natural gas carriers""",12222
+14,2020,"""World""","""All ships""",3906987
+15,2020,"""World""","""Liquid bulk carriers""",488876
+16,2020,"""World""","""Container ships""",459417
+17,2020,"""World""","""Dry breakbulk carriers""",413961
+18,2020,"""World""","""Dry bulk carriers""",266337
+19,2020,"""World""","""Liquefied petroleum gas carriers""",52639
+20,2020,"""World""","""Liquefied natural gas carriers""",12386

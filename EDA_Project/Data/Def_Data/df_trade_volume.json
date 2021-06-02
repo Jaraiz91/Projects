@@ -1,0 +1,162 @@
+{
+    "2005": {
+        "": "7",
+        "Quarter": "2005",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "",
+        "\"Growth rate.1": "6.10136",
+        "Growth rate (over previous period)": "113.6428",
+        "Volume Index (2005=100)": "108.284"
+    },
+    "2006": {
+        "": "15",
+        "Quarter": "2006",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "7.4641",
+        "\"Growth rate.1": "5.08763",
+        "Growth rate (over previous period)": "122.1252",
+        "Volume Index (2005=100)": "117.13"
+    },
+    "2007": {
+        "": "23",
+        "Quarter": "2007",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "6.24904",
+        "\"Growth rate.1": "4.81748",
+        "Growth rate (over previous period)": "129.7569",
+        "Volume Index (2005=100)": "123.559"
+    },
+    "2008": {
+        "": "31",
+        "Quarter": "2008",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "-7.21122",
+        "\"Growth rate.1": "-7.16966",
+        "Growth rate (over previous period)": "120.3998",
+        "Volume Index (2005=100)": "114.111"
+    },
+    "2009": {
+        "": "39",
+        "Quarter": "2009",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "-0.86827",
+        "\"Growth rate.1": "6.61322",
+        "Growth rate (over previous period)": "119.3544",
+        "Volume Index (2005=100)": "113.306"
+    },
+    "2010": {
+        "": "47",
+        "Quarter": "2010",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "11.62375",
+        "\"Growth rate.1": "4.67398",
+        "Growth rate (over previous period)": "133.2279",
+        "Volume Index (2005=100)": "126.826"
+    },
+    "2011": {
+        "": "55",
+        "Quarter": "2011",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "2.34092",
+        "\"Growth rate.1": "1.2884",
+        "Growth rate (over previous period)": "136.3466",
+        "Volume Index (2005=100)": "130.525"
+    },
+    "2012": {
+        "": "63",
+        "Quarter": "2012",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "1.3582",
+        "\"Growth rate.1": "2.06053",
+        "Growth rate (over previous period)": "138.1985",
+        "Volume Index (2005=100)": "131.976"
+    },
+    "2013": {
+        "": "71",
+        "Quarter": "2013",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "3.66321",
+        "\"Growth rate.1": "2.99608",
+        "Growth rate (over previous period)": "143.261",
+        "Volume Index (2005=100)": "135.693"
+    },
+    "2014": {
+        "": "79",
+        "Quarter": "2014",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "3.81639",
+        "\"Growth rate.1": "2.86475",
+        "Growth rate (over previous period)": "148.7284",
+        "Volume Index (2005=100)": "141.2"
+    },
+    "2015": {
+        "": "87",
+        "Quarter": "2015",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "1.34433",
+        "\"Growth rate.1": "3.30594",
+        "Growth rate (over previous period)": "150.7278",
+        "Volume Index (2005=100)": "142.762"
+    },
+    "2016": {
+        "": "95",
+        "Quarter": "2016",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "1.52276",
+        "\"Growth rate.1": "3.7303",
+        "Growth rate (over previous period)": "153.023",
+        "Volume Index (2005=100)": "145.722"
+    },
+    "2017": {
+        "": "103",
+        "Quarter": "2017",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "5.19424",
+        "\"Growth rate.1": "3.66541",
+        "Growth rate (over previous period)": "160.9714",
+        "Volume Index (2005=100)": "154.018"
+    },
+    "2018": {
+        "": "111",
+        "Quarter": "2018",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "2.37918",
+        "\"Growth rate.1": "2.92785",
+        "Growth rate (over previous period)": "164.8012",
+        "Volume Index (2005=100)": "156.719"
+    },
+    "2019": {
+        "": "119",
+        "Quarter": "2019",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "0.2927",
+        "\"Growth rate.1": "2.32122",
+        "Growth rate (over previous period)": "165.2836",
+        "Volume Index (2005=100)": "155.688"
+    },
+    "2020": {
+        "": "127",
+        "Quarter": "2020",
+        "Quarter Label": "Q4",
+        "Flow Label": "Exports",
+        "\"Growth rate": "-0.00372",
+        "\"Growth rate.1": "6.07115",
+        "Growth rate (over previous period)": "165.2774",
+        "Volume Index (2005=100)": "155.597"
+    }
+}

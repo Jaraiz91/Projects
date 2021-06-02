@@ -1,0 +1,604 @@
+,Year,Series,Series Label,Country,Country Label,ShipType,ShipType Label,Percentage of total all economies,Gross Tonnage
+0,2017,2307,Ship scrapping by country of destruction,0000,World,0,Total fleet,100.0,23137868.0
+1,2017,2307,Ship scrapping by country of destruction,0000u,World n.e.s.,0,Total fleet,0.55387,128154.0
+2,2017,2307,Ship scrapping by country of destruction,031,Azerbaijan,0,Total fleet,0.00321,742.0
+3,2017,2307,Ship scrapping by country of destruction,036,Australia,0,Total fleet,0.0,0.0
+4,2017,2307,Ship scrapping by country of destruction,050,Bangladesh,0,Total fleet,28.92787,6693292.0
+5,2017,2307,Ship scrapping by country of destruction,056,Belgium,0,Total fleet,0.05312,12291.0
+6,2017,2307,Ship scrapping by country of destruction,076,Brazil,0,Total fleet,0.01728,3999.0
+7,2017,2307,Ship scrapping by country of destruction,1100,Developed economies,0,Total fleet,0.81649,188919.0
+8,2017,2307,Ship scrapping by country of destruction,1120,Developed economies: America,0,Total fleet,0.505,116847.0
+9,2017,2307,Ship scrapping by country of destruction,1130,Developed economies: Asia,0,Total fleet,0.00324,749.0
+10,2017,2307,Ship scrapping by country of destruction,1140,Developed economies: Europe,0,Total fleet,0.30825,71323.0
+11,2017,2307,Ship scrapping by country of destruction,1150,Developed economies: Oceania,0,Total fleet,0.0,0.0
+12,2017,2307,Ship scrapping by country of destruction,1200,Developing economies,0,Total fleet,98.6118,22816667.0
+13,2017,2307,Ship scrapping by country of destruction,1210,Developing economies: Africa,0,Total fleet,0.12985,30044.0
+14,2017,2307,Ship scrapping by country of destruction,1220,Developing economies: America,0,Total fleet,0.1218,28183.0
+15,2017,2307,Ship scrapping by country of destruction,1230,Developing economies: Asia,0,Total fleet,98.36014,22758440.0
+16,2017,2307,Ship scrapping by country of destruction,124,Canada,0,Total fleet,0.0999,23114.0
+17,2017,2307,Ship scrapping by country of destruction,1300,Transition economies,0,Total fleet,0.01784,4128.0
+18,2017,2307,Ship scrapping by country of destruction,156,China,0,Total fleet,16.32307,3776811.0
+19,2017,2307,Ship scrapping by country of destruction,192,Cuba,0,Total fleet,0.04927,11401.0
+20,2017,2307,Ship scrapping by country of destruction,208,Denmark,0,Total fleet,0.12311,28486.0
+21,2017,2307,Ship scrapping by country of destruction,2101,Developed economies: Asia and Oceania,0,Total fleet,0.00324,749.0
+22,2017,2307,Ship scrapping by country of destruction,2102,Developing economies: Asia and Oceania,0,Total fleet,98.36014,22758440.0
+23,2017,2307,Ship scrapping by country of destruction,2116,Sub-Saharan Africa excluding South Africa,0,Total fleet,0.12985,30044.0
+24,2017,2307,Ship scrapping by country of destruction,2117,Africa excluding South Africa,0,Total fleet,0.12985,30044.0
+25,2017,2307,Ship scrapping by country of destruction,214,Dominican Republic,0,Total fleet,0.0,0.0
+26,2017,2307,Ship scrapping by country of destruction,2160,Developing economies excluding China,0,Total fleet,82.28872,19039856.0
+27,2017,2307,Ship scrapping by country of destruction,2161,Developing economies excluding LDCs,0,Total fleet,69.68393,16123375.0
+28,2017,2307,Ship scrapping by country of destruction,218,Ecuador,0,Total fleet,0.05525,12783.0
+29,2017,2307,Ship scrapping by country of destruction,2200,M49 developing regions,0,Total fleet,98.615,22817409.0
+30,2017,2307,Ship scrapping by country of destruction,2205,M49 developed regions,0,Total fleet,0.83113,192305.0
+31,2017,2307,Ship scrapping by country of destruction,2210,LDCs (Least developed countries),0,Total fleet,28.92787,6693292.0
+32,2017,2307,Ship scrapping by country of destruction,2213,LDCs: Asia,0,Total fleet,28.92787,6693292.0
+33,2017,2307,Ship scrapping by country of destruction,2220,LLDCs (Landlocked developing countries),0,Total fleet,0.00321,742.0
+34,2017,2307,Ship scrapping by country of destruction,2250,SIDS (Small island developing States) (UN-OHRLLS),0,Total fleet,0.04927,11401.0
+35,2017,2307,Ship scrapping by country of destruction,233,Estonia,0,Total fleet,0.0,0.0
+36,2017,2307,Ship scrapping by country of destruction,2370,Selected exporters of petroleum,0,Total fleet,0.13681,31656.0
+37,2017,2307,Ship scrapping by country of destruction,2371,Selected exporters of manufactured goods,0,Total fleet,98.20289,22722054.0
+38,2017,2307,Ship scrapping by country of destruction,2372,Selected exporters of manufactured goods and primary commodities,0,Total fleet,68.89214,15940172.0
+39,2017,2307,Ship scrapping by country of destruction,2373,Selected exporters of agricultural products,0,Total fleet,0.10452,24184.0
+40,2017,2307,Ship scrapping by country of destruction,2374,Selected exporters of minerals and mining products,0,Total fleet,0.0,0.0
+41,2017,2307,Ship scrapping by country of destruction,2376,Selected LIFDC (Low-income food-deficit countries),0,Total fleet,58.2134,13469340.0
+42,2017,2307,Ship scrapping by country of destruction,2378,LIFDC (Low-income food-deficit countries) (FAO),0,Total fleet,58.2134,13469340.0
+43,2017,2307,Ship scrapping by country of destruction,2411,Net food-importing economies,0,Total fleet,63.36894,14662222.0
+44,2017,2307,Ship scrapping by country of destruction,2412,Net food-exporting economies,0,Total fleet,36.07719,8347492.0
+45,2017,2307,Ship scrapping by country of destruction,2413,Net food-exporting developing economies,0,Total fleet,35.2797,8162971.0
+46,2017,2307,Ship scrapping by country of destruction,2414,Net food-exporting transition economies,0,Total fleet,0.01087,2516.0
+47,2017,2307,Ship scrapping by country of destruction,2415,Net food-exporting developed economies,0,Total fleet,0.78661,182005.0
+48,2017,2307,Ship scrapping by country of destruction,2416,Major net food-exporting economies,0,Total fleet,36.01843,8333897.0
+49,2017,2307,Ship scrapping by country of destruction,2420,Net food-importing developing economies,0,Total fleet,63.33209,14653696.0
+50,2017,2307,Ship scrapping by country of destruction,2421,Net food-importing transition economies,0,Total fleet,0.00697,1612.0
+51,2017,2307,Ship scrapping by country of destruction,2422,Net food-importing developed economies,0,Total fleet,0.02988,6914.0
+52,2017,2307,Ship scrapping by country of destruction,2423,Major net food-importing economies,0,Total fleet,63.36573,14661480.0
+53,2017,2307,Ship scrapping by country of destruction,246,Finland,0,Total fleet,0.00307,710.0
+54,2017,2307,Ship scrapping by country of destruction,2508,Industrialized economies (UNIDO),0,Total fleet,0.81748,189147.0
+55,2017,2307,Ship scrapping by country of destruction,2509,EIEs (Emerging Industrial Economies) (UNIDO),0,Total fleet,51.57329,11932960.0
+56,2017,2307,Ship scrapping by country of destruction,251,France,0,Total fleet,0.00634,1467.0
+57,2017,2307,Ship scrapping by country of destruction,2510,Emerging markets,0,Total fleet,51.77154,11978830.0
+58,2017,2307,Ship scrapping by country of destruction,2511,Emerging markets: Africa,0,Total fleet,0.12985,30044.0
+59,2017,2307,Ship scrapping by country of destruction,2512,Emerging markets: America,0,Total fleet,0.07253,16782.0
+60,2017,2307,Ship scrapping by country of destruction,2513,Emerging markets: Asia,0,Total fleet,51.55453,11928618.0
+61,2017,2307,Ship scrapping by country of destruction,2514,Emerging markets: Europe and Kazakhstan,0,Total fleet,0.01463,3386.0
+62,2017,2307,Ship scrapping by country of destruction,2621,High-income developing economies,0,Total fleet,22.22137,5141552.0
+63,2017,2307,Ship scrapping by country of destruction,2622,Middle-income developing economies,0,Total fleet,76.39042,17675115.0
+64,2017,2307,Ship scrapping by country of destruction,2625,Lower-middle-income economies (World Bank),0,Total fleet,76.4013,17677631.0
+65,2017,2307,Ship scrapping by country of destruction,2626,Upper-middle-income economies (World Bank),0,Total fleet,22.21623,5140361.0
+66,2017,2307,Ship scrapping by country of destruction,2627,High-income economies (World Bank),0,Total fleet,0.82861,191722.0
+67,2017,2307,Ship scrapping by country of destruction,2628,High-income OECD members (World Bank),0,Total fleet,0.82861,191722.0
+68,2017,2307,Ship scrapping by country of destruction,2629,High-income non OECD members (World Bank),0,Total fleet,0.0,0.0
+69,2017,2307,Ship scrapping by country of destruction,2710,BASIC,0,Total fleet,45.62589,10556858.0
+70,2017,2307,Ship scrapping by country of destruction,2711,BRICS,0,Total fleet,45.62965,10557728.0
+71,2017,2307,Ship scrapping by country of destruction,276,Germany,0,Total fleet,0.0,0.0
+72,2017,2307,Ship scrapping by country of destruction,300,Greece,0,Total fleet,0.0,0.0
+73,2017,2307,Ship scrapping by country of destruction,3102,COMESA (Common Market for Eastern and Southern Africa),0,Total fleet,0.0,0.0
+74,2017,2307,Ship scrapping by country of destruction,3104,ECOWAS (Economic Community of West African States),0,Total fleet,0.12985,30044.0
+75,2017,2307,Ship scrapping by country of destruction,3112,CEN-SAD (Community of Sahel-Saharan States),0,Total fleet,0.12985,30044.0
+76,2017,2307,Ship scrapping by country of destruction,3114,United Nations member States,0,Total fleet,99.44613,23009714.0
+77,2017,2307,Ship scrapping by country of destruction,3201,CAN (Andean Community),0,Total fleet,0.05525,12783.0
+78,2017,2307,Ship scrapping by country of destruction,3204,FTAA (Free Trade Area of the Americas),0,Total fleet,0.57753,133629.0
+79,2017,2307,Ship scrapping by country of destruction,3205,LAIA (Latin American Integration Association),0,Total fleet,0.1218,28183.0
+80,2017,2307,Ship scrapping by country of destruction,3206,NAFTA (North American Free Trade Agreement),0,Total fleet,0.505,116847.0
+81,2017,2307,Ship scrapping by country of destruction,3208,MERCOSUR (Southern Common Market),0,Total fleet,0.01728,3999.0
+82,2017,2307,Ship scrapping by country of destruction,3209,ALBA-TCP (Bolivarian Alliance for the Peoples of Our America - Peoples' Trade Treaty),0,Total fleet,0.04927,11401.0
+83,2017,2307,Ship scrapping by country of destruction,3211,ACS (Association of Caribbean States),0,Total fleet,0.04927,11401.0
+84,2017,2307,Ship scrapping by country of destruction,3301,ASEAN (Association of Southeast Asian Nations),0,Total fleet,0.20551,47551.0
+85,2017,2307,Ship scrapping by country of destruction,3302,APTA (Asia-Pacific Trade Agreement),0,Total fleet,74.54859,17248954.0
+86,2017,2307,Ship scrapping by country of destruction,3303,GCC (The Cooperation Council for the Arab States of the Gulf),0,Total fleet,0.0,0.0
+87,2017,2307,Ship scrapping by country of destruction,3304,SAARC (South Asian Association for Regional Cooperation),0,Total fleet,76.09115,17605870.0
+88,2017,2307,Ship scrapping by country of destruction,3305,"ASEAN (Association of Southeast Asian Nations) plus China, Japan and Republic of Korea",0,Total fleet,16.54394,3827914.0
+89,2017,2307,Ship scrapping by country of destruction,3306,ECO (Economic Cooperation Organization),0,Total fleet,23.60925,5462677.0
+90,2017,2307,Ship scrapping by country of destruction,3307,African Union,0,Total fleet,0.12985,30044.0
+91,2017,2307,Ship scrapping by country of destruction,3310,"ADB (African Development Bank), developing member countries",0,Total fleet,92.62294,21430974.0
+92,2017,2307,Ship scrapping by country of destruction,3312,ADB: Group B,0,Total fleet,76.09115,17605870.0
+93,2017,2307,Ship scrapping by country of destruction,3313,ADB: Group C,0,Total fleet,16.53179,3825104.0
+94,2017,2307,Ship scrapping by country of destruction,3320,ECA (Economic Commission for Africa),0,Total fleet,0.12985,30044.0
+95,2017,2307,Ship scrapping by country of destruction,3321,ECA: North Africa,0,Total fleet,0.0,0.0
+96,2017,2307,Ship scrapping by country of destruction,3325,ECA: West Africa,0,Total fleet,0.12985,30044.0
+97,2017,2307,Ship scrapping by country of destruction,3330,ECLAC (Economic Commission for Latin America and the Caribbean),0,Total fleet,0.1218,28183.0
+98,2017,2307,Ship scrapping by country of destruction,3331,ECLAC: Caribbean,0,Total fleet,0.0,0.0
+99,2017,2307,Ship scrapping by country of destruction,3332,ECLAC: Latin America,0,Total fleet,0.1218,28183.0
+100,2017,2307,Ship scrapping by country of destruction,3340,ESCAP (Economic and Social Commission for Asia and the Pacific),0,Total fleet,98.37035,22760801.0
+101,2017,2307,Ship scrapping by country of destruction,3341,ESCAP: Africa,0,Total fleet,0.12985,30044.0
+102,2017,2307,Ship scrapping by country of destruction,3342,ESCAP: Latin America,0,Total fleet,0.1218,28183.0
+103,2017,2307,Ship scrapping by country of destruction,3343,ESCAP: Europe,0,Total fleet,0.31913,73839.0
+104,2017,2307,Ship scrapping by country of destruction,3344,ESCAP: East and North-East Asia (ENEA),0,Total fleet,16.33842,3780363.0
+105,2017,2307,Ship scrapping by country of destruction,3345,ESCAP: North and Central Asia,0,Total fleet,0.00697,1612.0
+106,2017,2307,Ship scrapping by country of destruction,3346,ESCAP: South and South-West Asia,0,Total fleet,81.81944,18931275.0
+107,2017,2307,Ship scrapping by country of destruction,3347,ESCAP: Pacific,0,Total fleet,0.0,0.0
+108,2017,2307,Ship scrapping by country of destruction,3348,ESCAP: Pacific island developing economies (PIDE),0,Total fleet,16.34218,3781233.0
+109,2017,2307,Ship scrapping by country of destruction,3349,ESCAP: Other area,0,Total fleet,0.0,0.0
+110,2017,2307,Ship scrapping by country of destruction,3350,"ESCAP: East and North-East Asia, incl. the Russian Federation",0,Total fleet,16.34218,3781233.0
+111,2017,2307,Ship scrapping by country of destruction,3355,UNECE (Economic Commission for Europe),0,Total fleet,6.55939,1517703.0
+112,2017,2307,Ship scrapping by country of destruction,3360,"UNECE: Eastern Europe, Caucasus and Central Asia",0,Total fleet,0.01784,4128.0
+113,2017,2307,Ship scrapping by country of destruction,3370,ESCWA (Economic and Social Commission for Western Asia),0,Total fleet,0.0,0.0
+114,2017,2307,Ship scrapping by country of destruction,3371,ESCWA: Arab countries,0,Total fleet,0.0,0.0
+115,2017,2307,Ship scrapping by country of destruction,3401,EFTA (European Free Trade Association),0,Total fleet,0.00957,2215.0
+116,2017,2307,Ship scrapping by country of destruction,3402,EU25 (European Union 2004 … 2007),0,Total fleet,0.29868,69108.0
+117,2017,2307,Ship scrapping by country of destruction,3404,EU15 (European Union 1995 … 2004),0,Total fleet,0.23992,55513.0
+118,2017,2307,Ship scrapping by country of destruction,3406,Euro area,0,Total fleet,0.17557,40622.0
+119,2017,2307,Ship scrapping by country of destruction,3408,EU27 (European Union 2007 … 2013),0,Total fleet,0.29868,69108.0
+120,2017,2307,Ship scrapping by country of destruction,3410,EU28 (European Union 2013 … 2020),0,Total fleet,0.29868,69108.0
+121,2017,2307,Ship scrapping by country of destruction,3412,European Union (2020 …),0,Total fleet,0.29868,69108.0
+122,2017,2307,Ship scrapping by country of destruction,356,India,0,Total fleet,29.28553,6776048.0
+123,2017,2307,Ship scrapping by country of destruction,360,Indonesia,0,Total fleet,0.15726,36386.0
+124,2017,2307,Ship scrapping by country of destruction,3601,Northern America and Europe,0,Total fleet,0.82789,191556.0
+125,2017,2307,Ship scrapping by country of destruction,3602,Central and Southern Asia,0,Total fleet,76.09115,17605870.0
+126,2017,2307,Ship scrapping by country of destruction,3603,Eastern and South-Eastern Asia,0,Total fleet,16.54394,3827914.0
+127,2017,2307,Ship scrapping by country of destruction,3604,Western Asia and Northern Africa,0,Total fleet,5.7315,1326147.0
+128,2017,2307,Ship scrapping by country of destruction,380,Italy,0,Total fleet,0.01724,3988.0
+129,2017,2307,Ship scrapping by country of destruction,3901,APEC (Asia-Pacific Economic Cooperation),0,Total fleet,17.0527,3945631.0
+130,2017,2307,Ship scrapping by country of destruction,3903,CIS (Commonwealth of Independent States),0,Total fleet,0.00697,1612.0
+131,2017,2307,Ship scrapping by country of destruction,3905,OECD (Organisation for Economic Cooperation and Development),0,Total fleet,6.5569,1517127.0
+132,2017,2307,Ship scrapping by country of destruction,3906,OPEC (Organization of the Petroleum Exporting Countries),0,Total fleet,0.18509,42827.0
+133,2017,2307,Ship scrapping by country of destruction,3907,"ACP (African, Caribbean and Pacific Group of States)",0,Total fleet,0.17912,41445.0
+134,2017,2307,Ship scrapping by country of destruction,3908,LAS (League of Arab States),0,Total fleet,0.0,0.0
+135,2017,2307,Ship scrapping by country of destruction,3909,OIC (Organisation of Islamic Cooperation),0,Total fleet,52.86031,12230749.0
+136,2017,2307,Ship scrapping by country of destruction,3910,OAS (Organization of American States),0,Total fleet,0.62681,145030.0
+137,2017,2307,Ship scrapping by country of destruction,3912,G7 (Group of Seven),0,Total fleet,0.53182,123051.0
+138,2017,2307,Ship scrapping by country of destruction,3913,G8 (Group of Eight),0,Total fleet,0.53558,123921.0
+139,2017,2307,Ship scrapping by country of destruction,3916,G20 (Group of Twenty),0,Total fleet,52.33423,12109026.0
+140,2017,2307,Ship scrapping by country of destruction,3919,G-77 (Group of 77),0,Total fleet,92.87459,21489201.0
+141,2017,2307,Ship scrapping by country of destruction,392,Japan,0,Total fleet,0.00324,749.0
+142,2017,2307,Ship scrapping by country of destruction,3921,GSTP (Global System of Trade Preferences among Developing Countries),0,Total fleet,76.56043,17714451.0
+143,2017,2307,Ship scrapping by country of destruction,3922,GSTP: Africa,0,Total fleet,0.12985,30044.0
+144,2017,2307,Ship scrapping by country of destruction,3923,GSTP: Latin America,0,Total fleet,0.1218,28183.0
+145,2017,2307,Ship scrapping by country of destruction,3924,GSTP: Asia,0,Total fleet,76.30878,17656224.0
+146,2017,2307,Ship scrapping by country of destruction,3932,TPP (Trans-Pacific Partnership),0,Total fleet,0.13922,32213.0
+147,2017,2307,Ship scrapping by country of destruction,3940,ACP: Africa,0,Total fleet,0.12985,30044.0
+148,2017,2307,Ship scrapping by country of destruction,3941,ACP: Western Africa,0,Total fleet,0.12985,30044.0
+149,2017,2307,Ship scrapping by country of destruction,3945,ACP: Caribbean,0,Total fleet,0.04927,11401.0
+150,2017,2307,Ship scrapping by country of destruction,3949,ACP: islands states,0,Total fleet,0.04927,11401.0
+151,2017,2307,Ship scrapping by country of destruction,410,"Korea, Republic of",0,Total fleet,0.01211,2803.0
+152,2017,2307,Ship scrapping by country of destruction,428,Latvia,0,Total fleet,0.05098,11795.0
+153,2017,2307,Ship scrapping by country of destruction,440,Lithuania,0,Total fleet,0.00778,1800.0
+154,2017,2307,Ship scrapping by country of destruction,458,Malaysia,0,Total fleet,0.03609,8350.0
+155,2017,2307,Ship scrapping by country of destruction,470,Malta,0,Total fleet,0.0,0.0
+156,2017,2307,Ship scrapping by country of destruction,484,Mexico,0,Total fleet,0.0,0.0
+157,2017,2307,Ship scrapping by country of destruction,5100,Africa,0,Total fleet,0.12985,30044.0
+158,2017,2307,Ship scrapping by country of destruction,5110,Northern Africa,0,Total fleet,0.0,0.0
+159,2017,2307,Ship scrapping by country of destruction,5120,Sub-Saharan Africa,0,Total fleet,0.12985,30044.0
+160,2017,2307,Ship scrapping by country of destruction,5124,Western Africa,0,Total fleet,0.12985,30044.0
+161,2017,2307,Ship scrapping by country of destruction,5200,America,0,Total fleet,0.62681,145030.0
+162,2017,2307,Ship scrapping by country of destruction,5210,Northern America,0,Total fleet,0.505,116847.0
+163,2017,2307,Ship scrapping by country of destruction,5220,Latin America and the Caribbean,0,Total fleet,0.1218,28183.0
+164,2017,2307,Ship scrapping by country of destruction,5221,Caribbean,0,Total fleet,0.04927,11401.0
+165,2017,2307,Ship scrapping by country of destruction,5222,Central America,0,Total fleet,0.0,0.0
+166,2017,2307,Ship scrapping by country of destruction,5223,South America,0,Total fleet,0.07253,16782.0
+167,2017,2307,Ship scrapping by country of destruction,528,Netherlands,0,Total fleet,0.03283,7596.0
+168,2017,2307,Ship scrapping by country of destruction,5300,Asia,0,Total fleet,98.36659,22759931.0
+169,2017,2307,Ship scrapping by country of destruction,531,Curaçao,0,Total fleet,0.0,0.0
+170,2017,2307,Ship scrapping by country of destruction,5320,Southern Asia,0,Total fleet,76.09115,17605870.0
+171,2017,2307,Ship scrapping by country of destruction,5330,Eastern Asia,0,Total fleet,16.33842,3780363.0
+172,2017,2307,Ship scrapping by country of destruction,5340,Western Asia,0,Total fleet,5.7315,1326147.0
+173,2017,2307,Ship scrapping by country of destruction,5350,South-eastern Asia,0,Total fleet,0.20551,47551.0
+174,2017,2307,Ship scrapping by country of destruction,5400,Europe,0,Total fleet,0.32289,74709.0
+175,2017,2307,Ship scrapping by country of destruction,5410,Eastern Europe,0,Total fleet,0.01463,3386.0
+176,2017,2307,Ship scrapping by country of destruction,5420,Northern Europe,0,Total fleet,0.19451,45006.0
+177,2017,2307,Ship scrapping by country of destruction,5430,Southern Europe,0,Total fleet,0.02145,4963.0
+178,2017,2307,Ship scrapping by country of destruction,5440,Western Europe,0,Total fleet,0.09229,21354.0
+179,2017,2307,Ship scrapping by country of destruction,5500,Oceania,0,Total fleet,0.0,0.0
+180,2017,2307,Ship scrapping by country of destruction,554,New Zealand,0,Total fleet,0.0,0.0
+181,2017,2307,Ship scrapping by country of destruction,5600,Asia and Oceania,0,Total fleet,98.36659,22759931.0
+182,2017,2307,Ship scrapping by country of destruction,566,Nigeria,0,Total fleet,0.12985,30044.0
+183,2017,2307,Ship scrapping by country of destruction,579,Norway,0,Total fleet,0.00957,2215.0
+184,2017,2307,Ship scrapping by country of destruction,586,Pakistan,0,Total fleet,17.87775,4136530.0
+185,2017,2307,Ship scrapping by country of destruction,591,Panama,0,Total fleet,0.0,0.0
+186,2017,2307,Ship scrapping by country of destruction,604,Peru,0,Total fleet,0.0,0.0
+187,2017,2307,Ship scrapping by country of destruction,608,Philippines,0,Total fleet,0.01217,2815.0
+188,2017,2307,Ship scrapping by country of destruction,616,Poland,0,Total fleet,0.0,0.0
+189,2017,2307,Ship scrapping by country of destruction,620,Portugal,0,Total fleet,0.0,0.0
+190,2017,2307,Ship scrapping by country of destruction,642,Romania,0,Total fleet,0.0,0.0
+191,2017,2307,Ship scrapping by country of destruction,643,Russian Federation,0,Total fleet,0.00376,870.0
+192,2017,2307,Ship scrapping by country of destruction,704,Viet Nam,0,Total fleet,0.0,0.0
+193,2017,2307,Ship scrapping by country of destruction,724,Spain,0,Total fleet,0.00421,975.0
+194,2017,2307,Ship scrapping by country of destruction,764,Thailand,0,Total fleet,0.0,0.0
+195,2017,2307,Ship scrapping by country of destruction,784,United Arab Emirates,0,Total fleet,0.0,0.0
+196,2017,2307,Ship scrapping by country of destruction,792,Turkey,0,Total fleet,5.72829,1325405.0
+197,2017,2307,Ship scrapping by country of destruction,804,Ukraine,0,Total fleet,0.01087,2516.0
+198,2017,2307,Ship scrapping by country of destruction,818,Egypt,0,Total fleet,0.0,0.0
+199,2017,2307,Ship scrapping by country of destruction,842,United States of America,0,Total fleet,0.40511,93733.0
+200,2017,2307,Ship scrapping by country of destruction,926,United Kingdom,0,Total fleet,0.0,0.0
+201,2018,2307,Ship scrapping by country of destruction,0000,World,0,Total fleet,100.0,19002604.0
+202,2018,2307,Ship scrapping by country of destruction,0000u,World n.e.s.,0,Total fleet,0.44624,84798.0
+203,2018,2307,Ship scrapping by country of destruction,031,Azerbaijan,0,Total fleet,0.00526,1000.0
+204,2018,2307,Ship scrapping by country of destruction,036,Australia,0,Total fleet,0.00754,1433.0
+205,2018,2307,Ship scrapping by country of destruction,050,Bangladesh,0,Total fleet,45.46829,8640159.0
+206,2018,2307,Ship scrapping by country of destruction,056,Belgium,0,Total fleet,0.08085,15363.0
+207,2018,2307,Ship scrapping by country of destruction,076,Brazil,0,Total fleet,0.00736,1398.0
+208,2018,2307,Ship scrapping by country of destruction,1100,Developed economies,0,Total fleet,0.94416,179415.0
+209,2018,2307,Ship scrapping by country of destruction,1120,Developed economies: America,0,Total fleet,0.52372,99521.0
+210,2018,2307,Ship scrapping by country of destruction,1130,Developed economies: Asia,0,Total fleet,0.02311,4391.0
+211,2018,2307,Ship scrapping by country of destruction,1140,Developed economies: Europe,0,Total fleet,0.38705,73550.0
+212,2018,2307,Ship scrapping by country of destruction,1150,Developed economies: Oceania,0,Total fleet,0.01028,1953.0
+213,2018,2307,Ship scrapping by country of destruction,1200,Developing economies,0,Total fleet,98.50042,18717644.0
+214,2018,2307,Ship scrapping by country of destruction,1210,Developing economies: Africa,0,Total fleet,0.20933,39778.0
+215,2018,2307,Ship scrapping by country of destruction,1220,Developing economies: America,0,Total fleet,0.23615,44875.0
+216,2018,2307,Ship scrapping by country of destruction,1230,Developing economies: Asia,0,Total fleet,98.05493,18632991.0
+217,2018,2307,Ship scrapping by country of destruction,124,Canada,0,Total fleet,0.18751,35632.0
+218,2018,2307,Ship scrapping by country of destruction,1300,Transition economies,0,Total fleet,0.10918,20747.0
+219,2018,2307,Ship scrapping by country of destruction,156,China,0,Total fleet,2.49748,474586.0
+220,2018,2307,Ship scrapping by country of destruction,192,Cuba,0,Total fleet,0.00831,1579.0
+221,2018,2307,Ship scrapping by country of destruction,208,Denmark,0,Total fleet,0.08605,16352.0
+222,2018,2307,Ship scrapping by country of destruction,2101,Developed economies: Asia and Oceania,0,Total fleet,0.03338,6344.0
+223,2018,2307,Ship scrapping by country of destruction,2102,Developing economies: Asia and Oceania,0,Total fleet,98.05493,18632991.0
+224,2018,2307,Ship scrapping by country of destruction,2116,Sub-Saharan Africa excluding South Africa,0,Total fleet,0.20933,39778.0
+225,2018,2307,Ship scrapping by country of destruction,2117,Africa excluding South Africa,0,Total fleet,0.20933,39778.0
+226,2018,2307,Ship scrapping by country of destruction,214,Dominican Republic,0,Total fleet,0.0,0.0
+227,2018,2307,Ship scrapping by country of destruction,2160,Developing economies excluding China,0,Total fleet,96.00294,18243058.0
+228,2018,2307,Ship scrapping by country of destruction,2161,Developing economies excluding LDCs,0,Total fleet,53.03213,10077485.0
+229,2018,2307,Ship scrapping by country of destruction,218,Ecuador,0,Total fleet,0.19611,37266.0
+230,2018,2307,Ship scrapping by country of destruction,2200,M49 developing regions,0,Total fleet,98.50568,18718644.0
+231,2018,2307,Ship scrapping by country of destruction,2205,M49 developed regions,0,Total fleet,1.04808,199162.0
+232,2018,2307,Ship scrapping by country of destruction,2210,LDCs (Least developed countries),0,Total fleet,45.46829,8640159.0
+233,2018,2307,Ship scrapping by country of destruction,2213,LDCs: Asia,0,Total fleet,45.46829,8640159.0
+234,2018,2307,Ship scrapping by country of destruction,2220,LLDCs (Landlocked developing countries),0,Total fleet,0.00526,1000.0
+235,2018,2307,Ship scrapping by country of destruction,2250,SIDS (Small island developing States) (UN-OHRLLS),0,Total fleet,0.02902,5515.0
+236,2018,2307,Ship scrapping by country of destruction,233,Estonia,0,Total fleet,0.09333,17735.0
+237,2018,2307,Ship scrapping by country of destruction,2370,Selected exporters of petroleum,0,Total fleet,0.31851,60525.0
+238,2018,2307,Ship scrapping by country of destruction,2371,Selected exporters of manufactured goods,0,Total fleet,97.85164,18594360.0
+239,2018,2307,Ship scrapping by country of destruction,2372,Selected exporters of manufactured goods and primary commodities,0,Total fleet,73.08502,13888056.0
+240,2018,2307,Ship scrapping by country of destruction,2373,Selected exporters of agricultural products,0,Total fleet,0.20442,38845.0
+241,2018,2307,Ship scrapping by country of destruction,2374,Selected exporters of minerals and mining products,0,Total fleet,0.0,0.0
+242,2018,2307,Ship scrapping by country of destruction,2376,Selected LIFDC (Low-income food-deficit countries),0,Total fleet,70.24545,13348464.0
+243,2018,2307,Ship scrapping by country of destruction,2378,LIFDC (Low-income food-deficit countries) (FAO),0,Total fleet,70.24545,13348464.0
+244,2018,2307,Ship scrapping by country of destruction,2411,Net food-importing economies,0,Total fleet,69.48503,13203965.0
+245,2018,2307,Ship scrapping by country of destruction,2412,Net food-exporting economies,0,Total fleet,30.04801,5709905.0
+246,2018,2307,Ship scrapping by country of destruction,2413,Net food-exporting developing economies,0,Total fleet,29.30712,5569116.0
+247,2018,2307,Ship scrapping by country of destruction,2414,Net food-exporting transition economies,0,Total fleet,0.0,0.0
+248,2018,2307,Ship scrapping by country of destruction,2415,Net food-exporting developed economies,0,Total fleet,0.74089,140789.0
+249,2018,2307,Ship scrapping by country of destruction,2416,Major net food-exporting economies,0,Total fleet,30.03891,5708176.0
+250,2018,2307,Ship scrapping by country of destruction,2420,Net food-importing developing economies,0,Total fleet,69.17258,13144592.0
+251,2018,2307,Ship scrapping by country of destruction,2421,Net food-importing transition economies,0,Total fleet,0.10918,20747.0
+252,2018,2307,Ship scrapping by country of destruction,2422,Net food-importing developed economies,0,Total fleet,0.20327,38626.0
+253,2018,2307,Ship scrapping by country of destruction,2423,Major net food-importing economies,0,Total fleet,69.38644,13185230.0
+254,2018,2307,Ship scrapping by country of destruction,246,Finland,0,Total fleet,0.0,0.0
+255,2018,2307,Ship scrapping by country of destruction,2508,Industrialized economies (UNIDO),0,Total fleet,1.08097,205413.0
+256,2018,2307,Ship scrapping by country of destruction,2509,EIEs (Emerging Industrial Economies) (UNIDO),0,Total fleet,31.59972,6004769.0
+257,2018,2307,Ship scrapping by country of destruction,251,France,0,Total fleet,0.00883,1677.0
+258,2018,2307,Ship scrapping by country of destruction,2510,Emerging markets,0,Total fleet,32.12301,6104209.0
+259,2018,2307,Ship scrapping by country of destruction,2511,Emerging markets: Africa,0,Total fleet,0.20933,39778.0
+260,2018,2307,Ship scrapping by country of destruction,2512,Emerging markets: America,0,Total fleet,0.20713,39360.0
+261,2018,2307,Ship scrapping by country of destruction,2513,Emerging markets: Asia,0,Total fleet,31.60088,6004990.0
+262,2018,2307,Ship scrapping by country of destruction,2514,Emerging markets: Europe and Kazakhstan,0,Total fleet,0.10567,20081.0
+263,2018,2307,Ship scrapping by country of destruction,2621,High-income developing economies,0,Total fleet,6.86345,1304234.0
+264,2018,2307,Ship scrapping by country of destruction,2622,Middle-income developing economies,0,Total fleet,91.63697,17413410.0
+265,2018,2307,Ship scrapping by country of destruction,2625,Lower-middle-income economies (World Bank),0,Total fleet,91.63697,17413410.0
+266,2018,2307,Ship scrapping by country of destruction,2626,Upper-middle-income economies (World Bank),0,Total fleet,6.93798,1318396.0
+267,2018,2307,Ship scrapping by country of destruction,2627,High-income economies (World Bank),0,Total fleet,0.97881,186000.0
+268,2018,2307,Ship scrapping by country of destruction,2628,High-income OECD members (World Bank),0,Total fleet,0.9581,182064.0
+269,2018,2307,Ship scrapping by country of destruction,2629,High-income non OECD members (World Bank),0,Total fleet,0.02071,3936.0
+270,2018,2307,Ship scrapping by country of destruction,2710,BASIC,0,Total fleet,27.27146,5182288.0
+271,2018,2307,Ship scrapping by country of destruction,2711,BRICS,0,Total fleet,27.37538,5202035.0
+272,2018,2307,Ship scrapping by country of destruction,276,Germany,0,Total fleet,0.00074,140.0
+273,2018,2307,Ship scrapping by country of destruction,300,Greece,0,Total fleet,0.0,0.0
+274,2018,2307,Ship scrapping by country of destruction,3102,COMESA (Common Market for Eastern and Southern Africa),0,Total fleet,0.0,0.0
+275,2018,2307,Ship scrapping by country of destruction,3104,ECOWAS (Economic Community of West African States),0,Total fleet,0.20933,39778.0
+276,2018,2307,Ship scrapping by country of destruction,3112,CEN-SAD (Community of Sahel-Saharan States),0,Total fleet,0.20933,39778.0
+277,2018,2307,Ship scrapping by country of destruction,3114,United Nations member States,0,Total fleet,99.53304,18913870.0
+278,2018,2307,Ship scrapping by country of destruction,3201,CAN (Andean Community),0,Total fleet,0.19611,37266.0
+279,2018,2307,Ship scrapping by country of destruction,3204,FTAA (Free Trade Area of the Americas),0,Total fleet,0.73085,138881.0
+280,2018,2307,Ship scrapping by country of destruction,3205,LAIA (Latin American Integration Association),0,Total fleet,0.21544,40939.0
+281,2018,2307,Ship scrapping by country of destruction,3206,NAFTA (North American Free Trade Agreement),0,Total fleet,0.52739,100217.0
+282,2018,2307,Ship scrapping by country of destruction,3208,MERCOSUR (Southern Common Market),0,Total fleet,0.00736,1398.0
+283,2018,2307,Ship scrapping by country of destruction,3209,ALBA-TCP (Bolivarian Alliance for the Peoples of Our America - Peoples' Trade Treaty),0,Total fleet,0.00831,1579.0
+284,2018,2307,Ship scrapping by country of destruction,3211,ACS (Association of Caribbean States),0,Total fleet,0.01197,2275.0
+285,2018,2307,Ship scrapping by country of destruction,3301,ASEAN (Association of Southeast Asian Nations),0,Total fleet,0.21749,41328.0
+286,2018,2307,Ship scrapping by country of destruction,3302,APTA (Asia-Pacific Trade Agreement),0,Total fleet,72.74634,13823698.0
+287,2018,2307,Ship scrapping by country of destruction,3303,GCC (The Cooperation Council for the Arab States of the Gulf),0,Total fleet,0.0,0.0
+288,2018,2307,Ship scrapping by country of destruction,3304,SAARC (South Asian Association for Regional Cooperation),0,Total fleet,91.21015,17332304.0
+289,2018,2307,Ship scrapping by country of destruction,3305,"ASEAN (Association of Southeast Asian Nations) plus China, Japan and Republic of Korea",0,Total fleet,2.75201,522954.0
+290,2018,2307,Ship scrapping by country of destruction,3306,ECO (Economic Cooperation Organization),0,Total fleet,25.09638,4768965.0
+291,2018,2307,Ship scrapping by country of destruction,3307,African Union,0,Total fleet,0.20933,39778.0
+292,2018,2307,Ship scrapping by country of destruction,3310,"ADB (African Development Bank), developing member countries",0,Total fleet,93.93038,17849218.0
+293,2018,2307,Ship scrapping by country of destruction,3312,ADB: Group B,0,Total fleet,91.21015,17332304.0
+294,2018,2307,Ship scrapping by country of destruction,3313,ADB: Group C,0,Total fleet,2.72023,516914.0
+295,2018,2307,Ship scrapping by country of destruction,3320,ECA (Economic Commission for Africa),0,Total fleet,0.20933,39778.0
+296,2018,2307,Ship scrapping by country of destruction,3321,ECA: North Africa,0,Total fleet,0.0,0.0
+297,2018,2307,Ship scrapping by country of destruction,3325,ECA: West Africa,0,Total fleet,0.20933,39778.0
+298,2018,2307,Ship scrapping by country of destruction,3330,ECLAC (Economic Commission for Latin America and the Caribbean),0,Total fleet,0.23615,44875.0
+299,2018,2307,Ship scrapping by country of destruction,3331,ECLAC: Caribbean,0,Total fleet,0.02071,3936.0
+300,2018,2307,Ship scrapping by country of destruction,3332,ECLAC: Latin America,0,Total fleet,0.21544,40939.0
+301,2018,2307,Ship scrapping by country of destruction,3340,ESCAP (Economic and Social Commission for Asia and the Pacific),0,Total fleet,98.1975,18660082.0
+302,2018,2307,Ship scrapping by country of destruction,3341,ESCAP: Africa,0,Total fleet,0.20933,39778.0
+303,2018,2307,Ship scrapping by country of destruction,3342,ESCAP: Latin America,0,Total fleet,0.23615,44875.0
+304,2018,2307,Ship scrapping by country of destruction,3343,ESCAP: Europe,0,Total fleet,0.38705,73550.0
+305,2018,2307,Ship scrapping by country of destruction,3344,ESCAP: East and North-East Asia (ENEA),0,Total fleet,2.53453,481626.0
+306,2018,2307,Ship scrapping by country of destruction,3345,ESCAP: North and Central Asia,0,Total fleet,0.10918,20747.0
+307,2018,2307,Ship scrapping by country of destruction,3346,ESCAP: South and South-West Asia,0,Total fleet,95.32603,18114428.0
+308,2018,2307,Ship scrapping by country of destruction,3347,ESCAP: Pacific,0,Total fleet,0.01028,1953.0
+309,2018,2307,Ship scrapping by country of destruction,3348,ESCAP: Pacific island developing economies (PIDE),0,Total fleet,2.63844,501373.0
+310,2018,2307,Ship scrapping by country of destruction,3349,ESCAP: Other area,0,Total fleet,0.0,0.0
+311,2018,2307,Ship scrapping by country of destruction,3350,"ESCAP: East and North-East Asia, incl. the Russian Federation",0,Total fleet,2.63844,501373.0
+312,2018,2307,Ship scrapping by country of destruction,3355,UNECE (Economic Commission for Europe),0,Total fleet,5.13583,975942.0
+313,2018,2307,Ship scrapping by country of destruction,3360,"UNECE: Eastern Europe, Caucasus and Central Asia",0,Total fleet,0.10918,20747.0
+314,2018,2307,Ship scrapping by country of destruction,3370,ESCWA (Economic and Social Commission for Western Asia),0,Total fleet,0.0,0.0
+315,2018,2307,Ship scrapping by country of destruction,3371,ESCWA: Arab countries,0,Total fleet,0.0,0.0
+316,2018,2307,Ship scrapping by country of destruction,3401,EFTA (European Free Trade Association),0,Total fleet,0.0102,1939.0
+317,2018,2307,Ship scrapping by country of destruction,3402,EU25 (European Union 2004 … 2007),0,Total fleet,0.37685,71611.0
+318,2018,2307,Ship scrapping by country of destruction,3404,EU15 (European Union 1995 … 2004),0,Total fleet,0.27266,51813.0
+319,2018,2307,Ship scrapping by country of destruction,3406,Euro area,0,Total fleet,0.21177,40242.0
+320,2018,2307,Ship scrapping by country of destruction,3408,EU27 (European Union 2007 … 2013),0,Total fleet,0.37685,71611.0
+321,2018,2307,Ship scrapping by country of destruction,3410,EU28 (European Union 2013 … 2020),0,Total fleet,0.37685,71611.0
+322,2018,2307,Ship scrapping by country of destruction,3412,European Union (2020 …),0,Total fleet,0.29958,56928.0
+323,2018,2307,Ship scrapping by country of destruction,356,India,0,Total fleet,24.76663,4706304.0
+324,2018,2307,Ship scrapping by country of destruction,360,Indonesia,0,Total fleet,0.20696,39327.0
+325,2018,2307,Ship scrapping by country of destruction,3601,Northern America and Europe,0,Total fleet,1.01469,192818.0
+326,2018,2307,Ship scrapping by country of destruction,3602,Central and Southern Asia,0,Total fleet,91.21015,17332304.0
+327,2018,2307,Ship scrapping by country of destruction,3603,Eastern and South-Eastern Asia,0,Total fleet,2.75201,522954.0
+328,2018,2307,Ship scrapping by country of destruction,3604,Western Asia and Northern Africa,0,Total fleet,4.12114,783124.0
+329,2018,2307,Ship scrapping by country of destruction,380,Italy,0,Total fleet,0.0,0.0
+330,2018,2307,Ship scrapping by country of destruction,3901,APEC (Asia-Pacific Economic Cooperation),0,Total fleet,3.39359,644871.0
+331,2018,2307,Ship scrapping by country of destruction,3903,CIS (Commonwealth of Independent States),0,Total fleet,0.10918,20747.0
+332,2018,2307,Ship scrapping by country of destruction,3905,OECD (Organisation for Economic Cooperation and Development),0,Total fleet,5.07764,964884.0
+333,2018,2307,Ship scrapping by country of destruction,3906,OPEC (Organization of the Petroleum Exporting Countries),0,Total fleet,0.40544,77044.0
+334,2018,2307,Ship scrapping by country of destruction,3907,"ACP (African, Caribbean and Pacific Group of States)",0,Total fleet,0.21764,41357.0
+335,2018,2307,Ship scrapping by country of destruction,3908,LAS (League of Arab States),0,Total fleet,0.0,0.0
+336,2018,2307,Ship scrapping by country of destruction,3909,OIC (Organisation of Islamic Cooperation),0,Total fleet,70.98095,13488229.0
+337,2018,2307,Ship scrapping by country of destruction,3910,OAS (Organization of American States),0,Total fleet,0.73916,140460.0
+338,2018,2307,Ship scrapping by country of destruction,3912,G7 (Group of Seven),0,Total fleet,0.63366,120412.0
+339,2018,2307,Ship scrapping by country of destruction,3913,G8 (Group of Eight),0,Total fleet,0.73758,140159.0
+340,2018,2307,Ship scrapping by country of destruction,3916,G20 (Group of Twenty),0,Total fleet,32.64704,6203787.0
+341,2018,2307,Ship scrapping by country of destruction,3919,G-77 (Group of 77),0,Total fleet,94.35148,17929239.0
+342,2018,2307,Ship scrapping by country of destruction,392,Japan,0,Total fleet,0.02311,4391.0
+343,2018,2307,Ship scrapping by country of destruction,3921,GSTP (Global System of Trade Preferences among Developing Countries),0,Total fleet,91.86635,17456998.0
+344,2018,2307,Ship scrapping by country of destruction,3922,GSTP: Africa,0,Total fleet,0.20933,39778.0
+345,2018,2307,Ship scrapping by country of destruction,3923,GSTP: Latin America,0,Total fleet,0.21544,40939.0
+346,2018,2307,Ship scrapping by country of destruction,3924,GSTP: Asia,0,Total fleet,91.44158,17376281.0
+347,2018,2307,Ship scrapping by country of destruction,3932,TPP (Trans-Pacific Partnership),0,Total fleet,0.23509,44673.0
+348,2018,2307,Ship scrapping by country of destruction,3940,ACP: Africa,0,Total fleet,0.20933,39778.0
+349,2018,2307,Ship scrapping by country of destruction,3941,ACP: Western Africa,0,Total fleet,0.20933,39778.0
+350,2018,2307,Ship scrapping by country of destruction,3945,ACP: Caribbean,0,Total fleet,0.00831,1579.0
+351,2018,2307,Ship scrapping by country of destruction,3949,ACP: islands states,0,Total fleet,0.00831,1579.0
+352,2018,2307,Ship scrapping by country of destruction,410,"Korea, Republic of",0,Total fleet,0.01394,2649.0
+353,2018,2307,Ship scrapping by country of destruction,428,Latvia,0,Total fleet,0.0,0.0
+354,2018,2307,Ship scrapping by country of destruction,440,Lithuania,0,Total fleet,0.0091,1729.0
+355,2018,2307,Ship scrapping by country of destruction,458,Malaysia,0,Total fleet,0.0,0.0
+356,2018,2307,Ship scrapping by country of destruction,470,Malta,0,Total fleet,0.0,0.0
+357,2018,2307,Ship scrapping by country of destruction,484,Mexico,0,Total fleet,0.00366,696.0
+358,2018,2307,Ship scrapping by country of destruction,5100,Africa,0,Total fleet,0.20933,39778.0
+359,2018,2307,Ship scrapping by country of destruction,5110,Northern Africa,0,Total fleet,0.0,0.0
+360,2018,2307,Ship scrapping by country of destruction,5120,Sub-Saharan Africa,0,Total fleet,0.20933,39778.0
+361,2018,2307,Ship scrapping by country of destruction,5124,Western Africa,0,Total fleet,0.20933,39778.0
+362,2018,2307,Ship scrapping by country of destruction,5200,America,0,Total fleet,0.75987,144396.0
+363,2018,2307,Ship scrapping by country of destruction,5210,Northern America,0,Total fleet,0.52372,99521.0
+364,2018,2307,Ship scrapping by country of destruction,5220,Latin America and the Caribbean,0,Total fleet,0.23615,44875.0
+365,2018,2307,Ship scrapping by country of destruction,5221,Caribbean,0,Total fleet,0.02902,5515.0
+366,2018,2307,Ship scrapping by country of destruction,5222,Central America,0,Total fleet,0.00366,696.0
+367,2018,2307,Ship scrapping by country of destruction,5223,South America,0,Total fleet,0.20347,38664.0
+368,2018,2307,Ship scrapping by country of destruction,528,Netherlands,0,Total fleet,0.0,0.0
+369,2018,2307,Ship scrapping by country of destruction,5300,Asia,0,Total fleet,98.0833,18638382.0
+370,2018,2307,Ship scrapping by country of destruction,531,Curaçao,0,Total fleet,0.02071,3936.0
+371,2018,2307,Ship scrapping by country of destruction,5320,Southern Asia,0,Total fleet,91.21015,17332304.0
+372,2018,2307,Ship scrapping by country of destruction,5330,Eastern Asia,0,Total fleet,2.53453,481626.0
+373,2018,2307,Ship scrapping by country of destruction,5340,Western Asia,0,Total fleet,4.12114,783124.0
+374,2018,2307,Ship scrapping by country of destruction,5350,South-eastern Asia,0,Total fleet,0.21749,41328.0
+375,2018,2307,Ship scrapping by country of destruction,5400,Europe,0,Total fleet,0.49097,93297.0
+376,2018,2307,Ship scrapping by country of destruction,5410,Eastern Europe,0,Total fleet,0.10567,20081.0
+377,2018,2307,Ship scrapping by country of destruction,5420,Northern Europe,0,Total fleet,0.27595,52438.0
+378,2018,2307,Ship scrapping by country of destruction,5430,Southern Europe,0,Total fleet,0.01893,3598.0
+379,2018,2307,Ship scrapping by country of destruction,5440,Western Europe,0,Total fleet,0.09041,17180.0
+380,2018,2307,Ship scrapping by country of destruction,5500,Oceania,0,Total fleet,0.01028,1953.0
+381,2018,2307,Ship scrapping by country of destruction,554,New Zealand,0,Total fleet,0.00274,520.0
+382,2018,2307,Ship scrapping by country of destruction,5600,Asia and Oceania,0,Total fleet,98.09358,18640335.0
+383,2018,2307,Ship scrapping by country of destruction,566,Nigeria,0,Total fleet,0.20933,39778.0
+384,2018,2307,Ship scrapping by country of destruction,579,Norway,0,Total fleet,0.0102,1939.0
+385,2018,2307,Ship scrapping by country of destruction,586,Pakistan,0,Total fleet,20.97524,3985841.0
+386,2018,2307,Ship scrapping by country of destruction,591,Panama,0,Total fleet,0.0,0.0
+387,2018,2307,Ship scrapping by country of destruction,604,Peru,0,Total fleet,0.0,0.0
+388,2018,2307,Ship scrapping by country of destruction,608,Philippines,0,Total fleet,0.0,0.0
+389,2018,2307,Ship scrapping by country of destruction,616,Poland,0,Total fleet,0.00176,334.0
+390,2018,2307,Ship scrapping by country of destruction,620,Portugal,0,Total fleet,0.0,0.0
+391,2018,2307,Ship scrapping by country of destruction,642,Romania,0,Total fleet,0.0,0.0
+392,2018,2307,Ship scrapping by country of destruction,643,Russian Federation,0,Total fleet,0.10392,19747.0
+393,2018,2307,Ship scrapping by country of destruction,704,Viet Nam,0,Total fleet,0.01053,2001.0
+394,2018,2307,Ship scrapping by country of destruction,724,Spain,0,Total fleet,0.01893,3598.0
+395,2018,2307,Ship scrapping by country of destruction,764,Thailand,0,Total fleet,0.0,0.0
+396,2018,2307,Ship scrapping by country of destruction,784,United Arab Emirates,0,Total fleet,0.0,0.0
+397,2018,2307,Ship scrapping by country of destruction,792,Turkey,0,Total fleet,4.11588,782124.0
+398,2018,2307,Ship scrapping by country of destruction,804,Ukraine,0,Total fleet,0.0,0.0
+399,2018,2307,Ship scrapping by country of destruction,818,Egypt,0,Total fleet,0.0,0.0
+400,2018,2307,Ship scrapping by country of destruction,842,United States of America,0,Total fleet,0.33621,63889.0
+401,2018,2307,Ship scrapping by country of destruction,926,United Kingdom,0,Total fleet,0.07727,14683.0
+402,2019,2307,Ship scrapping by country of destruction,0000,World,0,Total fleet,100.0,12217675.0
+403,2019,2307,Ship scrapping by country of destruction,0000u,World n.e.s.,0,Total fleet,1.26142,154116.0
+404,2019,2307,Ship scrapping by country of destruction,031,Azerbaijan,0,Total fleet,0.00997,1218.0
+405,2019,2307,Ship scrapping by country of destruction,036,Australia,0,Total fleet,0.0,0.0
+406,2019,2307,Ship scrapping by country of destruction,050,Bangladesh,0,Total fleet,55.96073,6837100.0
+407,2019,2307,Ship scrapping by country of destruction,056,Belgium,0,Total fleet,0.06621,8089.0
+408,2019,2307,Ship scrapping by country of destruction,076,Brazil,0,Total fleet,0.0,0.0
+409,2019,2307,Ship scrapping by country of destruction,1100,Developed economies,0,Total fleet,0.87287,106645.0
+410,2019,2307,Ship scrapping by country of destruction,1120,Developed economies: America,0,Total fleet,0.58276,71200.0
+411,2019,2307,Ship scrapping by country of destruction,1130,Developed economies: Asia,0,Total fleet,0.01044,1276.0
+412,2019,2307,Ship scrapping by country of destruction,1140,Developed economies: Europe,0,Total fleet,0.27967,34169.0
+413,2019,2307,Ship scrapping by country of destruction,1150,Developed economies: Oceania,0,Total fleet,0.0,0.0
+414,2019,2307,Ship scrapping by country of destruction,1200,Developing economies,0,Total fleet,97.80687,11949726.0
+415,2019,2307,Ship scrapping by country of destruction,1210,Developing economies: Africa,0,Total fleet,0.0503,6146.0
+416,2019,2307,Ship scrapping by country of destruction,1220,Developing economies: America,0,Total fleet,0.06707,8194.0
+417,2019,2307,Ship scrapping by country of destruction,1230,Developing economies: Asia,0,Total fleet,97.6895,11935386.0
+418,2019,2307,Ship scrapping by country of destruction,124,Canada,0,Total fleet,0.05508,6729.0
+419,2019,2307,Ship scrapping by country of destruction,1300,Transition economies,0,Total fleet,0.05883,7188.0
+420,2019,2307,Ship scrapping by country of destruction,156,China,0,Total fleet,3.13581,383123.0
+421,2019,2307,Ship scrapping by country of destruction,192,Cuba,0,Total fleet,0.01429,1746.0
+422,2019,2307,Ship scrapping by country of destruction,208,Denmark,0,Total fleet,0.03041,3716.0
+423,2019,2307,Ship scrapping by country of destruction,2101,Developed economies: Asia and Oceania,0,Total fleet,0.01044,1276.0
+424,2019,2307,Ship scrapping by country of destruction,2102,Developing economies: Asia and Oceania,0,Total fleet,97.6895,11935386.0
+425,2019,2307,Ship scrapping by country of destruction,2116,Sub-Saharan Africa excluding South Africa,0,Total fleet,0.0503,6146.0
+426,2019,2307,Ship scrapping by country of destruction,2117,Africa excluding South Africa,0,Total fleet,0.0503,6146.0
+427,2019,2307,Ship scrapping by country of destruction,214,Dominican Republic,0,Total fleet,0.0,0.0
+428,2019,2307,Ship scrapping by country of destruction,2160,Developing economies excluding China,0,Total fleet,94.67106,11566603.0
+429,2019,2307,Ship scrapping by country of destruction,2161,Developing economies excluding LDCs,0,Total fleet,41.84615,5112626.0
+430,2019,2307,Ship scrapping by country of destruction,218,Ecuador,0,Total fleet,0.01459,1782.0
+431,2019,2307,Ship scrapping by country of destruction,2200,M49 developing regions,0,Total fleet,97.81684,11950944.0
+432,2019,2307,Ship scrapping by country of destruction,2205,M49 developed regions,0,Total fleet,0.92174,112615.0
+433,2019,2307,Ship scrapping by country of destruction,2210,LDCs (Least developed countries),0,Total fleet,55.96073,6837100.0
+434,2019,2307,Ship scrapping by country of destruction,2213,LDCs: Asia,0,Total fleet,55.96073,6837100.0
+435,2019,2307,Ship scrapping by country of destruction,2220,LLDCs (Landlocked developing countries),0,Total fleet,0.00997,1218.0
+436,2019,2307,Ship scrapping by country of destruction,2250,SIDS (Small island developing States) (UN-OHRLLS),0,Total fleet,0.01429,1746.0
+437,2019,2307,Ship scrapping by country of destruction,233,Estonia,0,Total fleet,0.0,0.0
+438,2019,2307,Ship scrapping by country of destruction,2370,Selected exporters of petroleum,0,Total fleet,0.10708,13083.0
+439,2019,2307,Ship scrapping by country of destruction,2371,Selected exporters of manufactured goods,0,Total fleet,97.60756,11925375.0
+440,2019,2307,Ship scrapping by country of destruction,2372,Selected exporters of manufactured goods and primary commodities,0,Total fleet,70.38225,8599074.4
+441,2019,2307,Ship scrapping by country of destruction,2373,Selected exporters of agricultural products,0,Total fleet,0.02888,3528.0
+442,2019,2307,Ship scrapping by country of destruction,2374,Selected exporters of minerals and mining products,0,Total fleet,0.02194,2680.0
+443,2019,2307,Ship scrapping by country of destruction,2376,Selected LIFDC (Low-income food-deficit countries),0,Total fleet,83.21117,10166470.6
+444,2019,2307,Ship scrapping by country of destruction,2378,LIFDC (Low-income food-deficit countries) (FAO),0,Total fleet,83.21117,10166470.6
+445,2019,2307,Ship scrapping by country of destruction,2411,Net food-importing economies,0,Total fleet,61.54851,7519796.4
+446,2019,2307,Ship scrapping by country of destruction,2412,Net food-exporting economies,0,Total fleet,37.19008,4543762.6
+447,2019,2307,Ship scrapping by country of destruction,2413,Net food-exporting developing economies,0,Total fleet,36.35583,4441836.6
+448,2019,2307,Ship scrapping by country of destruction,2414,Net food-exporting transition economies,0,Total fleet,0.00205,251.0
+449,2019,2307,Ship scrapping by country of destruction,2415,Net food-exporting developed economies,0,Total fleet,0.8322,101675.0
+450,2019,2307,Ship scrapping by country of destruction,2416,Major net food-exporting economies,0,Total fleet,37.16003,4540091.6
+451,2019,2307,Ship scrapping by country of destruction,2420,Net food-importing developing economies,0,Total fleet,61.45105,7507889.4
+452,2019,2307,Ship scrapping by country of destruction,2421,Net food-importing transition economies,0,Total fleet,0.05678,6937.0
+453,2019,2307,Ship scrapping by country of destruction,2422,Net food-importing developed economies,0,Total fleet,0.04068,4970.0
+454,2019,2307,Ship scrapping by country of destruction,2423,Major net food-importing economies,0,Total fleet,61.51453,7515645.4
+455,2019,2307,Ship scrapping by country of destruction,246,Finland,0,Total fleet,0.0,0.0
+456,2019,2307,Ship scrapping by country of destruction,2508,Industrialized economies (UNIDO),0,Total fleet,0.95408,116566.0
+457,2019,2307,Ship scrapping by country of destruction,2509,EIEs (Emerging Industrial Economies) (UNIDO),0,Total fleet,39.4635,4821521.6
+458,2019,2307,Ship scrapping by country of destruction,251,France,0,Total fleet,0.0,0.0
+459,2019,2307,Ship scrapping by country of destruction,2510,Emerging markets,0,Total fleet,39.60959,4839370.6
+460,2019,2307,Ship scrapping by country of destruction,2511,Emerging markets: Africa,0,Total fleet,0.0503,6146.0
+461,2019,2307,Ship scrapping by country of destruction,2512,Emerging markets: America,0,Total fleet,0.03652,4462.0
+462,2019,2307,Ship scrapping by country of destruction,2513,Emerging markets: Asia,0,Total fleet,39.4739,4822792.6
+463,2019,2307,Ship scrapping by country of destruction,2514,Emerging markets: Europe and Kazakhstan,0,Total fleet,0.04886,5970.0
+464,2019,2307,Ship scrapping by country of destruction,2621,High-income developing economies,0,Total fleet,12.23166,1494424.0
+465,2019,2307,Ship scrapping by country of destruction,2622,Middle-income developing economies,0,Total fleet,85.57522,10455302.0
+466,2019,2307,Ship scrapping by country of destruction,2625,Lower-middle-income economies (World Bank),0,Total fleet,85.57727,10455553.0
+467,2019,2307,Ship scrapping by country of destruction,2626,Upper-middle-income economies (World Bank),0,Total fleet,12.21407,1492275.0
+468,2019,2307,Ship scrapping by country of destruction,2627,High-income economies (World Bank),0,Total fleet,0.94724,115731.0
+469,2019,2307,Ship scrapping by country of destruction,2628,High-income OECD members (World Bank),0,Total fleet,0.92115,112543.0
+470,2019,2307,Ship scrapping by country of destruction,2629,High-income non OECD members (World Bank),0,Total fleet,0.02609,3188.0
+471,2019,2307,Ship scrapping by country of destruction,2710,BASIC,0,Total fleet,30.36318,3709674.6
+472,2019,2307,Ship scrapping by country of destruction,2711,BRICS,0,Total fleet,30.40999,3715393.6
+473,2019,2307,Ship scrapping by country of destruction,276,Germany,0,Total fleet,0.0,0.0
+474,2019,2307,Ship scrapping by country of destruction,300,Greece,0,Total fleet,0.01417,1731.0
+475,2019,2307,Ship scrapping by country of destruction,3102,COMESA (Common Market for Eastern and Southern Africa),0,Total fleet,0.0,0.0
+476,2019,2307,Ship scrapping by country of destruction,3104,ECOWAS (Economic Community of West African States),0,Total fleet,0.0503,6146.0
+477,2019,2307,Ship scrapping by country of destruction,3112,CEN-SAD (Community of Sahel-Saharan States),0,Total fleet,0.0503,6146.0
+478,2019,2307,Ship scrapping by country of destruction,3114,United Nations member States,0,Total fleet,98.73858,12063559.0
+479,2019,2307,Ship scrapping by country of destruction,3201,CAN (Andean Community),0,Total fleet,0.03652,4462.0
+480,2019,2307,Ship scrapping by country of destruction,3204,FTAA (Free Trade Area of the Americas),0,Total fleet,0.63554,77648.0
+481,2019,2307,Ship scrapping by country of destruction,3205,LAIA (Latin American Integration Association),0,Total fleet,0.06707,8194.0
+482,2019,2307,Ship scrapping by country of destruction,3206,NAFTA (North American Free Trade Agreement),0,Total fleet,0.58276,71200.0
+483,2019,2307,Ship scrapping by country of destruction,3208,MERCOSUR (Southern Common Market),0,Total fleet,0.0,0.0
+484,2019,2307,Ship scrapping by country of destruction,3209,ALBA-TCP (Bolivarian Alliance for the Peoples of Our America - Peoples' Trade Treaty),0,Total fleet,0.01429,1746.0
+485,2019,2307,Ship scrapping by country of destruction,3211,ACS (Association of Caribbean States),0,Total fleet,0.03055,3732.0
+486,2019,2307,Ship scrapping by country of destruction,3301,ASEAN (Association of Southeast Asian Nations),0,Total fleet,0.1148,14026.0
+487,2019,2307,Ship scrapping by country of destruction,3302,APTA (Asia-Pacific Trade Agreement),0,Total fleet,86.38202,10553874.6
+488,2019,2307,Ship scrapping by country of destruction,3303,GCC (The Cooperation Council for the Arab States of the Gulf),0,Total fleet,0.0,0.0
+489,2019,2307,Ship scrapping by country of destruction,3304,SAARC (South Asian Association for Regional Cooperation),0,Total fleet,85.4199,10436326.0
+490,2019,2307,Ship scrapping by country of destruction,3305,"ASEAN (Association of Southeast Asian Nations) plus China, Japan and Republic of Korea",0,Total fleet,3.31917,405525.0
+491,2019,2307,Ship scrapping by country of destruction,3306,ECO (Economic Cooperation Organization),0,Total fleet,11.20265,1368703.4
+492,2019,2307,Ship scrapping by country of destruction,3307,African Union,0,Total fleet,0.0503,6146.0
+493,2019,2307,Ship scrapping by country of destruction,3310,"ADB (African Development Bank), developing member countries",0,Total fleet,88.68048,10834693.0
+494,2019,2307,Ship scrapping by country of destruction,3312,ADB: Group B,0,Total fleet,85.4199,10436326.0
+495,2019,2307,Ship scrapping by country of destruction,3313,ADB: Group C,0,Total fleet,3.26058,398367.0
+496,2019,2307,Ship scrapping by country of destruction,3320,ECA (Economic Commission for Africa),0,Total fleet,0.0503,6146.0
+497,2019,2307,Ship scrapping by country of destruction,3321,ECA: North Africa,0,Total fleet,0.0,0.0
+498,2019,2307,Ship scrapping by country of destruction,3325,ECA: West Africa,0,Total fleet,0.0503,6146.0
+499,2019,2307,Ship scrapping by country of destruction,3330,ECLAC (Economic Commission for Latin America and the Caribbean),0,Total fleet,0.06707,8194.0
+500,2019,2307,Ship scrapping by country of destruction,3331,ECLAC: Caribbean,0,Total fleet,0.0,0.0
+501,2019,2307,Ship scrapping by country of destruction,3332,ECLAC: Latin America,0,Total fleet,0.06707,8194.0
+502,2019,2307,Ship scrapping by country of destruction,3340,ESCAP (Economic and Social Commission for Asia and the Pacific),0,Total fleet,97.75673,11943599.0
+503,2019,2307,Ship scrapping by country of destruction,3341,ESCAP: Africa,0,Total fleet,0.0503,6146.0
+504,2019,2307,Ship scrapping by country of destruction,3342,ESCAP: Latin America,0,Total fleet,0.06707,8194.0
+505,2019,2307,Ship scrapping by country of destruction,3343,ESCAP: Europe,0,Total fleet,0.28172,34420.0
+506,2019,2307,Ship scrapping by country of destruction,3344,ESCAP: East and North-East Asia (ENEA),0,Total fleet,3.20437,391499.0
+507,2019,2307,Ship scrapping by country of destruction,3345,ESCAP: North and Central Asia,0,Total fleet,0.05678,6937.0
+508,2019,2307,Ship scrapping by country of destruction,3346,ESCAP: South and South-West Asia,0,Total fleet,94.38078,11531137.0
+509,2019,2307,Ship scrapping by country of destruction,3347,ESCAP: Pacific,0,Total fleet,0.0,0.0
+510,2019,2307,Ship scrapping by country of destruction,3348,ESCAP: Pacific island developing economies (PIDE),0,Total fleet,3.25118,397218.0
+511,2019,2307,Ship scrapping by country of destruction,3349,ESCAP: Other area,0,Total fleet,0.0,0.0
+512,2019,2307,Ship scrapping by country of destruction,3350,"ESCAP: East and North-East Asia, incl. the Russian Federation",0,Total fleet,3.25118,397218.0
+513,2019,2307,Ship scrapping by country of destruction,3355,UNECE (Economic Commission for Europe),0,Total fleet,9.88214,1207368.0
+514,2019,2307,Ship scrapping by country of destruction,3360,"UNECE: Eastern Europe, Caucasus and Central Asia",0,Total fleet,0.05883,7188.0
+515,2019,2307,Ship scrapping by country of destruction,3370,ESCWA (Economic and Social Commission for Western Asia),0,Total fleet,0.0,0.0
+516,2019,2307,Ship scrapping by country of destruction,3371,ESCWA: Arab countries,0,Total fleet,0.0,0.0
+517,2019,2307,Ship scrapping by country of destruction,3401,EFTA (European Free Trade Association),0,Total fleet,0.03879,4739.0
+518,2019,2307,Ship scrapping by country of destruction,3402,EU25 (European Union 2004 … 2007),0,Total fleet,0.24088,29430.0
+519,2019,2307,Ship scrapping by country of destruction,3404,EU15 (European Union 1995 … 2004),0,Total fleet,0.21725,26543.0
+520,2019,2307,Ship scrapping by country of destruction,3406,Euro area,0,Total fleet,0.20424,24953.0
+521,2019,2307,Ship scrapping by country of destruction,3408,EU27 (European Union 2007 … 2013),0,Total fleet,0.24088,29430.0
+522,2019,2307,Ship scrapping by country of destruction,3410,EU28 (European Union 2013 … 2020),0,Total fleet,0.24088,29430.0
+523,2019,2307,Ship scrapping by country of destruction,3412,European Union (2020 …),0,Total fleet,0.23465,28669.0
+524,2019,2307,Ship scrapping by country of destruction,356,India,0,Total fleet,27.22737,3326551.6
+525,2019,2307,Ship scrapping by country of destruction,360,Indonesia,0,Total fleet,0.08194,10011.0
+526,2019,2307,Ship scrapping by country of destruction,3601,Northern America and Europe,0,Total fleet,0.91129,111339.0
+527,2019,2307,Ship scrapping by country of destruction,3602,Central and Southern Asia,0,Total fleet,85.4199,10436326.0
+528,2019,2307,Ship scrapping by country of destruction,3603,Eastern and South-Eastern Asia,0,Total fleet,3.31917,405525.0
+529,2019,2307,Ship scrapping by country of destruction,3604,Western Asia and Northern Africa,0,Total fleet,8.97085,1096029.0
+530,2019,2307,Ship scrapping by country of destruction,380,Italy,0,Total fleet,0.0,0.0
+531,2019,2307,Ship scrapping by country of destruction,3901,APEC (Asia-Pacific Economic Cooperation),0,Total fleet,3.97067,485124.0
+532,2019,2307,Ship scrapping by country of destruction,3903,CIS (Commonwealth of Independent States),0,Total fleet,0.05678,6937.0
+533,2019,2307,Ship scrapping by country of destruction,3905,OECD (Organisation for Economic Cooperation and Development),0,Total fleet,9.88203,1207354.0
+534,2019,2307,Ship scrapping by country of destruction,3906,OPEC (Organization of the Petroleum Exporting Countries),0,Total fleet,0.06489,7928.0
+535,2019,2307,Ship scrapping by country of destruction,3907,"ACP (African, Caribbean and Pacific Group of States)",0,Total fleet,0.06459,7892.0
+536,2019,2307,Ship scrapping by country of destruction,3908,LAS (League of Arab States),0,Total fleet,0.0,0.0
+537,2019,2307,Ship scrapping by country of destruction,3909,OIC (Organisation of Islamic Cooperation),0,Total fleet,67.29562,8221960.4
+538,2019,2307,Ship scrapping by country of destruction,3910,OAS (Organization of American States),0,Total fleet,0.64983,79394.0
+539,2019,2307,Ship scrapping by country of destruction,3912,G7 (Group of Seven),0,Total fleet,0.59943,73237.0
+540,2019,2307,Ship scrapping by country of destruction,3913,G8 (Group of Eight),0,Total fleet,0.64624,78956.0
+541,2019,2307,Ship scrapping by country of destruction,3916,G20 (Group of Twenty),0,Total fleet,40.34501,4929221.6
+542,2019,2307,Ship scrapping by country of destruction,3919,G-77 (Group of 77),0,Total fleet,88.79785,10849033.0
+543,2019,2307,Ship scrapping by country of destruction,392,Japan,0,Total fleet,0.01044,1276.0
+544,2019,2307,Ship scrapping by country of destruction,3921,GSTP (Global System of Trade Preferences among Developing Countries),0,Total fleet,85.69393,10469806.0
+545,2019,2307,Ship scrapping by country of destruction,3922,GSTP: Africa,0,Total fleet,0.0503,6146.0
+546,2019,2307,Ship scrapping by country of destruction,3923,GSTP: Latin America,0,Total fleet,0.05081,6208.0
+547,2019,2307,Ship scrapping by country of destruction,3924,GSTP: Asia,0,Total fleet,85.59282,10457452.0
+548,2019,2307,Ship scrapping by country of destruction,3932,TPP (Trans-Pacific Partnership),0,Total fleet,0.11053,13504.0
+549,2019,2307,Ship scrapping by country of destruction,3940,ACP: Africa,0,Total fleet,0.0503,6146.0
+550,2019,2307,Ship scrapping by country of destruction,3941,ACP: Western Africa,0,Total fleet,0.0503,6146.0
+551,2019,2307,Ship scrapping by country of destruction,3945,ACP: Caribbean,0,Total fleet,0.01429,1746.0
+552,2019,2307,Ship scrapping by country of destruction,3949,ACP: islands states,0,Total fleet,0.01429,1746.0
+553,2019,2307,Ship scrapping by country of destruction,410,"Korea, Republic of",0,Total fleet,0.05811,7100.0
+554,2019,2307,Ship scrapping by country of destruction,428,Latvia,0,Total fleet,0.00955,1167.0
+555,2019,2307,Ship scrapping by country of destruction,440,Lithuania,0,Total fleet,0.00424,518.0
+556,2019,2307,Ship scrapping by country of destruction,458,Malaysia,0,Total fleet,0.0,0.0
+557,2019,2307,Ship scrapping by country of destruction,470,Malta,0,Total fleet,0.00984,1202.0
+558,2019,2307,Ship scrapping by country of destruction,484,Mexico,0,Total fleet,0.0,0.0
+559,2019,2307,Ship scrapping by country of destruction,5100,Africa,0,Total fleet,0.0503,6146.0
+560,2019,2307,Ship scrapping by country of destruction,5110,Northern Africa,0,Total fleet,0.0,0.0
+561,2019,2307,Ship scrapping by country of destruction,5120,Sub-Saharan Africa,0,Total fleet,0.0503,6146.0
+562,2019,2307,Ship scrapping by country of destruction,5124,Western Africa,0,Total fleet,0.0503,6146.0
+563,2019,2307,Ship scrapping by country of destruction,5200,America,0,Total fleet,0.64983,79394.0
+564,2019,2307,Ship scrapping by country of destruction,5210,Northern America,0,Total fleet,0.58276,71200.0
+565,2019,2307,Ship scrapping by country of destruction,5220,Latin America and the Caribbean,0,Total fleet,0.06707,8194.0
+566,2019,2307,Ship scrapping by country of destruction,5221,Caribbean,0,Total fleet,0.01429,1746.0
+567,2019,2307,Ship scrapping by country of destruction,5222,Central America,0,Total fleet,0.01626,1986.0
+568,2019,2307,Ship scrapping by country of destruction,5223,South America,0,Total fleet,0.03652,4462.0
+569,2019,2307,Ship scrapping by country of destruction,528,Netherlands,0,Total fleet,0.0533,6512.0
+570,2019,2307,Ship scrapping by country of destruction,5300,Asia,0,Total fleet,97.70992,11937880.0
+571,2019,2307,Ship scrapping by country of destruction,531,Curaçao,0,Total fleet,0.0,0.0
+572,2019,2307,Ship scrapping by country of destruction,5320,Southern Asia,0,Total fleet,85.4199,10436326.0
+573,2019,2307,Ship scrapping by country of destruction,5330,Eastern Asia,0,Total fleet,3.20437,391499.0
+574,2019,2307,Ship scrapping by country of destruction,5340,Western Asia,0,Total fleet,8.97085,1096029.0
+575,2019,2307,Ship scrapping by country of destruction,5350,South-eastern Asia,0,Total fleet,0.1148,14026.0
+576,2019,2307,Ship scrapping by country of destruction,5400,Europe,0,Total fleet,0.32853,40139.0
+577,2019,2307,Ship scrapping by country of destruction,5410,Eastern Europe,0,Total fleet,0.04886,5970.0
+578,2019,2307,Ship scrapping by country of destruction,5420,Northern Europe,0,Total fleet,0.08922,10901.0
+579,2019,2307,Ship scrapping by country of destruction,5430,Southern Europe,0,Total fleet,0.07094,8667.0
+580,2019,2307,Ship scrapping by country of destruction,5440,Western Europe,0,Total fleet,0.11951,14601.0
+581,2019,2307,Ship scrapping by country of destruction,5500,Oceania,0,Total fleet,0.0,0.0
+582,2019,2307,Ship scrapping by country of destruction,554,New Zealand,0,Total fleet,0.0,0.0
+583,2019,2307,Ship scrapping by country of destruction,5600,Asia and Oceania,0,Total fleet,97.70992,11937880.0
+584,2019,2307,Ship scrapping by country of destruction,566,Nigeria,0,Total fleet,0.0503,6146.0
+585,2019,2307,Ship scrapping by country of destruction,579,Norway,0,Total fleet,0.03879,4739.0
+586,2019,2307,Ship scrapping by country of destruction,586,Pakistan,0,Total fleet,2.2318,272674.4
+587,2019,2307,Ship scrapping by country of destruction,591,Panama,0,Total fleet,0.01626,1986.0
+588,2019,2307,Ship scrapping by country of destruction,604,Peru,0,Total fleet,0.02194,2680.0
+589,2019,2307,Ship scrapping by country of destruction,608,Philippines,0,Total fleet,0.0,0.0
+590,2019,2307,Ship scrapping by country of destruction,616,Poland,0,Total fleet,0.0,0.0
+591,2019,2307,Ship scrapping by country of destruction,620,Portugal,0,Total fleet,0.0,0.0
+592,2019,2307,Ship scrapping by country of destruction,642,Romania,0,Total fleet,0.0,0.0
+593,2019,2307,Ship scrapping by country of destruction,643,Russian Federation,0,Total fleet,0.04681,5719.0
+594,2019,2307,Ship scrapping by country of destruction,704,Viet Nam,0,Total fleet,0.02307,2819.0
+595,2019,2307,Ship scrapping by country of destruction,724,Spain,0,Total fleet,0.04693,5734.0
+596,2019,2307,Ship scrapping by country of destruction,764,Thailand,0,Total fleet,0.00979,1196.0
+597,2019,2307,Ship scrapping by country of destruction,784,United Arab Emirates,0,Total fleet,0.0,0.0
+598,2019,2307,Ship scrapping by country of destruction,792,Turkey,0,Total fleet,8.96088,1094811.0
+599,2019,2307,Ship scrapping by country of destruction,804,Ukraine,0,Total fleet,0.00205,251.0
+600,2019,2307,Ship scrapping by country of destruction,818,Egypt,0,Total fleet,0.0,0.0
+601,2019,2307,Ship scrapping by country of destruction,842,United States of America,0,Total fleet,0.52769,64471.0
+602,2019,2307,Ship scrapping by country of destruction,926,United Kingdom,0,Total fleet,0.00623,761.0
